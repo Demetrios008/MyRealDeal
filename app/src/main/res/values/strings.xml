@@ -23,5 +23,26 @@
 
     <string name="profile_me">My Profile Pic</string> <!-- added for codepath chat (incoming & outgoing messages -->
     <string name="profile_other">Other profile pic</string> <!-- added for codepath chat (incoming & outgoing messages -->
+
+
+    <string-array name="name">
+        <item>Mary James</item>
+        <item>Jessica Richard </item>
+        <item>Ashley Harvey</item>
+        <item>Ellie Hamm</item>
+        <item>Kassidy Taylor</item>
+        <item>Harbor Zink</item>
+        <item>Madi Rush</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+        <item>Description</item>
+    </string-array>
+
 </resources>
 
