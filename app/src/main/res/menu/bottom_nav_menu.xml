@@ -6,15 +6,7 @@
         android:icon="@drawable/ic_home_black_24dp"
         android:title="@string/title_home" />
 
-    <item
-        android:id="@+id/navigation_roster"
-        android:icon="@android:drawable/ic_dialog_dialer"
-        android:title="@string/title_roster" />
-
-    <item
-        android:id="@+id/navigation_schedule"
-        android:icon="@android:drawable/ic_menu_today"
-        android:title="@string/title_schedule" />
+   
     <item
         android:id="@+id/navigation_notifications"
         android:icon="@android:drawable/sym_action_chat"
@@ -23,6 +15,11 @@
         android:id="@+id/navigation_dashboard"
         android:icon="@drawable/ic_dashboard_black_24dp"
         android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_signout"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/title_signout" />
 
 
 </menu>
